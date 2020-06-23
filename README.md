@@ -17,7 +17,7 @@ $ pip2 install --upgrade pip
 
 $ pkg install git
 
-$ git clone https://github.com/MRV1N5/Darkid
+$ git clone https://github.com/Rusdiahmad/Darkid
 
 $ cd Darkid
 
